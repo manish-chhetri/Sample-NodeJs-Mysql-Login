@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.error_msg {
+  color: #FF0000;
+}
+.header {
+  font-size: 18px;
+  font-weight: bold;
+}
